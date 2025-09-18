@@ -1,0 +1,10 @@
+# Build products
+build/
+DerivedData/
+
+# User-specific Xcode data
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+
+# macOS junk
+.DS_Store
